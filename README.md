@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohammad-Khaled-Gamal
-- 👀 I’m interested in Aerospace Engineering
+- 👀 I’m a senior Aerospace Engineering student
 - 🌱 I’m currently learning Control and Embedded Systems 
 - 💞️ I’m looking to collaborate on Space-related projects
 
